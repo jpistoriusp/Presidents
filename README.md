@@ -1,6 +1,7 @@
 ## This is our (Week 6) Presidents Web Group Project
 
-Project Application:
+Project Application:    (Link to web application: http://34.223.232.168:8080/PresidentsWeb/)
+
 1) When you arrive to the initial page of the Presidents Web application you are greeted with a Zap Brannigan.gif from Futurama at the top of the page, a large President's Seal picture (which links to the rest of the application). There is instruction below the image which directs the user to click on the President's Seal in order to move to the rest of the application.
 2) When you arrive to the next part (the rest) of the application, you are greeted by President George Washington. Zap is still present in the same location.
 3) Just underneath Zap there is a Filter by Term text input box and then a submit button right next to it. You must enter the desired president's term number and then hit submit. It will then take you to the president with the corresponding term number.
