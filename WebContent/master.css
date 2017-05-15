@@ -1,11 +1,9 @@
 * {
-	background-color: darkgray;
+    background-color: darkgray;
 }
-
 img.president {
-	border: 3px solid black;
+    border: 3px solid black;
 }
-
 input[type=text] {
     padding:5px; 
     -webkit-border-radius: 5px;
@@ -16,49 +14,42 @@ input[type=text] {
     font-weight: bolder;
      
 }
-
 em:hover {
     color: crimson;
 }
-
 strong:hover{
-	color: blue;
+    color: blue;
 }
-
 .nextButton {
-	/*  display: block;
+    /*  display: block;
   margin-left: auto;
   margin-right: auto; */
-	position: absolute;
-	bottom: 14%;
-	right: 15%;
+    position: absolute;
+    bottom: 20%;
+    right: 23%;
 }
-
 .backButton {
-	/*  display: block;
+    /*  display: block;
   margin-left: auto;
   margin-right: auto; */
-	position: absolute;
-	bottom: 14%;
-	left: 15%;
+    position: absolute;
+    bottom: 20%;
+    left: 23%;
 }
-
 button.center {
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
-
 img.zap {
-	width: 10%;
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
+    width: 10%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
-
 h1, h2, h3, h4, h5, h6, p, div {
-	color: black;
-	font-weight: bolder;
-	font-family: "Lucida Console", Monaco, monospace;
-	text-align: center;
+    color: black;
+    font-weight: bolder;
+    font-family: "Lucida Console", Monaco, monospace;
+    text-align: center;
 }
